@@ -1,0 +1,1 @@
+Retrofit dalam konteks Android adalah sebuah library yang digunakan untuk memudahkan proses komunikasi antara aplikasi Android dengan server melalui API Rest. Dengan menggunakan Retrofit, pengembang dapat dengan mudah mengirimkan permintaan HTTP dan menangani respons dari server tanpa perlu menulis kode HTTP secara manual.
